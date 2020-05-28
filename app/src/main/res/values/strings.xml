@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherForcast</string>
+    <string name="textview">Did you know you can determine the temperature outside by counting the number of chips the cricket
+        makes? Just count the number of chips one makes in 25seconds and place that number in the box below:
+
+
+    </string>
+    <string name="textview1">The approximate temperature outside is "\n"8.0 degrees Celsius.</string>
+    <string name="number_of_chirps_in_25_seconds">number of chirps in 25 seconds</string>
+    <string name="calculate_temperature">Calculate temperature</string>
+    <string name="result">\"The approximate temperature outside is \n \"</string>
+    <string name="text">Please enter counted chirps</string>
+</resources>
